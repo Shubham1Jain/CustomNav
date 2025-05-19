@@ -80,7 +80,6 @@ The drawer animation uses React Native Reanimated to create a custom effect wher
 - `rotateZ`: Rotates the main screen for a 3D effect
 - `translateX/Y`: Moves the main screen to reveal the drawer
 - `borderRadius`: Rounds the corners of the main screen when drawer is open
-- Clamps and timing functions to ensure smooth animation
 
 ## Learn More
 
