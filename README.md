@@ -11,8 +11,6 @@ This project demonstrates a custom animated navigation system built with React N
 
 https://drive.google.com/file/d/1qiPjAPAi8Oeg5KozGk7viHzqy-_zYEGE/view?usp=sharing
 
-*Note: Replace with your actual video URL after uploading*
-
 ## Navigation Structure
 
 ```
@@ -83,10 +81,6 @@ The drawer animation uses React Native Reanimated to create a custom effect wher
 - `translateX/Y`: Moves the main screen to reveal the drawer
 - `borderRadius`: Rounds the corners of the main screen when drawer is open
 - Clamps and timing functions to ensure smooth animation
-
-## Troubleshooting
-
-If you experience animation flickers at the end of the drawer animation, make sure you're using the latest React Native Reanimated library and that extrapolation is properly clamped.
 
 ## Learn More
 
